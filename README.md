@@ -4,9 +4,9 @@ This app implements lazy loading to load elements (images) only when they appear
 
 
 
-## v1
+## v1 (jQuery)
 
-Created with jQuery.
+Demo: https://lazy-loading.netlify.app/v1/
 
 API used:
 https://docs.elderscrollslegends.io/
@@ -23,7 +23,9 @@ https://docs.elderscrollslegends.io/
 
 
 
-## v2
+## v2 (ES6)
+
+Demo: https://lazy-loading.netlify.app/v2/
 
 ### Changes
 
